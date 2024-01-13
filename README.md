@@ -26,7 +26,7 @@ This Flutter-based cryptocurrency exchange app provides users with a powerful an
 
 To run the CryptoExchange Flutter App locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/cryptoexchange-flutter.git`
+1. Clone the repository: `git clone https://github.com/suryabarandevi/cryptoexchange-flutter.git`
 2. Navigate to the project directory: `cd cryptoexchange-flutter`
 3. Install dependencies: `flutter pub get`
 4. Run the application: `flutter run`
